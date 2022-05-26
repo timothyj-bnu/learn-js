@@ -9,8 +9,12 @@ This repository is used for me speedruning js for my thesis. Resource from:
 
 # Roadmap
 
-1. JS Basic
-2. JS Advanced
-3. ReactJS
-4. Express + NodeJS
-5. TensorflowJS
+1. JS Basic [15/44]
+2. JS DOM
+3. JS Advanced
+4. JS Algorithms & Dastruct
+5. ReactJS
+6. Express + NodeJS
+7. TensorflowJS
+
+Wish us luck!
