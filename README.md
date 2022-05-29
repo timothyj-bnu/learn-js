@@ -9,7 +9,7 @@ This repository is used for me speedruning js for my thesis. Resource from:
 
 # Roadmap
 
-1. JS Basic [15/44]
+1. JS Basic [31/44]
 2. JS DOM
 3. JS Advanced
 4. JS Algorithms & Dastruct
@@ -18,3 +18,5 @@ This repository is used for me speedruning js for my thesis. Resource from:
 7. TensorflowJS
 
 Wish us luck!
+
+**PS:** if the JS files are not the same with the tutorial, that's because I have understood the basic and just watch without practicing. Cheers!
