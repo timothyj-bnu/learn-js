@@ -9,7 +9,7 @@ This repository is used for me speedruning js for my thesis. Resource from:
 
 # Roadmap
 
-1. JS Basic [31/44]
+1. JS Basic [44/44] **DONE!!!**
 2. JS DOM
 3. JS Advanced
 4. JS Algorithms & Dastruct
