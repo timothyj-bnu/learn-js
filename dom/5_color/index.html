@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Color</title>
+    <style>
+        body{
+            text-align: center;
+        }
+        .light-blue{
+            background-color: lightblue;
+        }
+        #rangeSliderArea{
+            display: flex;
+            flex-direction: column;
+            margin: 5em auto;
+            gap: 2em;
+        }
+        input{
+            transition: 0.2s ease-in-out;
+        }
+    </style>
+</head>
+<body>
+    <h1>Playing with color</h1>
+
+    <div>
+        <button type="button" id="changeColorButton">Change color</button>
+    </div>
+    
+
+    <div id="rangeSliderArea">
+        <div>Merah</div>
+        <input type="range" name="redSlider" min="0" max="255">
+        <div>Green</div>
+        <input type="range" name="greenSlider" min="0" max="255">
+        <div>Blue</div>
+        <input type="range" name="blueSlider" min="0" max="255">
+    </div>
+
+    <script src="./script.js"></script>
+</body>
+</html>
