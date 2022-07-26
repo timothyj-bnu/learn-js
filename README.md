@@ -12,7 +12,7 @@ This repository is used for me speedruning js for my thesis. Resource from:
 
 1. JS Basic [44/44] **DONE!!!**
 2. JS DOM [14/14] **DONE!!!**
-3. JS Advanced [5/27]
+3. JS Advanced [9/27]
 4. JS Algorithms & Dastruct
 5. ReactJS (?)
 6. Express + NodeJS
